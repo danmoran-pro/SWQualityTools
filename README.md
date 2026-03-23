@@ -27,7 +27,7 @@ Invoke a specific target, such as 'test':
 ## Tools Included
 This repository supports the following software development tools:
 - <a href="https://checkstyle.sourceforge.io">Checkstyle</a> - Coding standard checker
-- <a href="https://www.jacoco.org/jacoco/trunk/doc/">JaCoCo</a> - Code test-coverage reporter
+- <a href="https://www.jacoco.org/jacoco/trunk/doc/">JaCoCo</a> - Code test-coverage and complexity reporter
 - <a href="https://docs.oracle.com/en/java/javase/26/docs/specs/man/javadoc.html">Javadoc</a> - API documentation generator
 - <a href="https://junit.org">JUnit</a> - Unit testing framework
 - <a href="https://pmd.github.io">PMD &amp; CPD</a> - Code weakness and duplication scanner
