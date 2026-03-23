@@ -169,7 +169,7 @@
     </cpd>
   </target>
 
-  <target name="checkstyle"
+  <target name="checkstyle" depends="init"
           description="Validate style using chestyle">
     <echo>Running Checkstyle</echo>
     <checkstyle config="${checkstyle.dir}/checkstyle-master.xml"
